@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane stylesheets="@../StyleSheets/AllMenuStyle.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.View.Controller.MainViewController">
+   <AnchorPane>
+      <ImageView fitHeight="900" fitWidth="1580" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../Pics/mosayebGun.png" />
+         </image>
+      </ImageView>
+   </AnchorPane>
+   <AnchorPane prefHeight="889.0" prefWidth="1569.0">
+      <children>
+         <Button fx:id="exitButton" layoutX="5.0" layoutY="798.0" mnemonicParsing="false" onMouseClicked="#exitAction" prefHeight="60.0" prefWidth="118.0" text="Exit" />
+         <Button fx:id="profileButton" layoutX="5.0" layoutY="300.0" mnemonicParsing="false" onMouseClicked="#profileAction" prefHeight="58.0" prefWidth="228.0" text="Profile Menu" />
+         <Button fx:id="leaderBoardButton" layoutX="5.0" layoutY="420.0" mnemonicParsing="false" onMouseClicked="#leaderBoardAction" prefHeight="57.0" prefWidth="237.0" text="Leader Board" />
+         <ImageView fx:id="avatar" fitHeight="150.0" fitWidth="150.0" layoutX="1335.0" layoutY="33.0" pickOnBounds="true" preserveRatio="true" />
+         <Label fx:id="usernameLabel" alignment="CENTER" layoutX="1334.0" layoutY="202.0" prefHeight="44.0" prefWidth="150.0" text="Username" />
+         <Button fx:id="startGameButton" layoutX="5.0" layoutY="60.0" mnemonicParsing="false" onMouseClicked="#startGameAction" prefHeight="70.0" prefWidth="211.0" text="Start Game">
+            <font>
+               <Font size="24.0" />
+            </font>
+         </Button>
+         <Button fx:id="settingsButton" layoutX="5.0" layoutY="180.0" mnemonicParsing="false" onMouseClicked="#settingsAction" prefHeight="62.0" prefWidth="172.0" text="Settings" />
+      </children>
+   </AnchorPane>
+</StackPane>

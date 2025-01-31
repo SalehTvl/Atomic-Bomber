@@ -1,0 +1,30 @@
+
+.button {
+    //-fx-background-color: linear-gradient(#FFA500, #FF4500);
+    -fx-background-color: rgba(0, 0, 0, 0);
+    -fx-background-radius: 10;
+    -fx-background-insets: 0;
+    -fx-text-fill: linear-gradient(#FFA500, #FF4500);
+    -fx-font-family: "Arial";
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#FF4500, #FFA500);
+}
+
+.label {
+    -fx-background-color: rgba(0, 0, 0, 0);
+    -fx-background-radius: 10;
+    -fx-background-insets: 0;
+    -fx-text-fill: linear-gradient(#FF4500, #FFA500);
+    -fx-font-family: "Arial";
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.stack-pane {
+    -fx-background-color: transparent;
+}
+

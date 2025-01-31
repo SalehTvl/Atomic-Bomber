@@ -1,0 +1,80 @@
+[
+  {
+    "username": "s",
+    "password": "s",
+    "avatarAddress": "D:/AP/AtomicBomber/AlphaVersion/src/main/resources/Pics/Avatars/f16falcon.jpg",
+    "gameSoundVolume": 1,
+    "isThemeClassic": false,
+    "totalKills": 340,
+    "difficultyBasedKills": 1016,
+    "shotBombs": 360,
+    "hitBombs": 188,
+    "finalWave": 3,
+    "currentDifficulty": 3
+  },
+  {
+    "username": "a",
+    "password": "a",
+    "avatarAddress": "D:/AP/AtomicBomber/AlphaVersion/src/main/resources/Pics/Avatars/eurotyphoon.jpg",
+    "gameSoundVolume": 1,
+    "isThemeClassic": false,
+    "totalKills": 81,
+    "difficultyBasedKills": 243,
+    "shotBombs": 52,
+    "hitBombs": 43,
+    "finalWave": 3,
+    "currentDifficulty": 3
+  },
+  {
+    "username": "kian",
+    "password": "ss",
+    "avatarAddress": "D:/AP/AtomicBomber/AlphaVersion/src/main/resources/Pics/Avatars/f15eagle.jpg",
+    "gameSoundVolume": 1,
+    "isThemeClassic": false,
+    "totalKills": 68,
+    "difficultyBasedKills": 204,
+    "shotBombs": 118,
+    "hitBombs": 38,
+    "finalWave": 3,
+    "currentDifficulty": 3
+  },
+  {
+    "username": "sss",
+    "password": "sss",
+    "avatarAddress": "D:/AP/AtomicBomber/AlphaVersion/src/main/resources/Pics/Avatars/f16falcon.jpg",
+    "gameSoundVolume": 1,
+    "isThemeClassic": false,
+    "totalKills": 189,
+    "difficultyBasedKills": 547,
+    "shotBombs": 119,
+    "hitBombs": 103,
+    "finalWave": 3,
+    "currentDifficulty": 3
+  },
+  {
+    "username": "aaaaa",
+    "password": "a232egg",
+    "avatarAddress": "D:/AP/AtomicBomber/AlphaVersion/src/main/resources/Pics/Avatars/f18hornet.jpg",
+    "gameSoundVolume": 1,
+    "isThemeClassic": false,
+    "totalKills": 0,
+    "difficultyBasedKills": 0,
+    "shotBombs": 0,
+    "hitBombs": 0,
+    "finalWave": 0,
+    "currentDifficulty": 1
+  },
+  {
+    "username": "s1",
+    "password": "s",
+    "avatarAddress": "D:/AP/AtomicBomber/AlphaVersion/src/main/resources/Pics/Avatars/f15eagle.jpg",
+    "gameSoundVolume": 1,
+    "isThemeClassic": false,
+    "totalKills": 69,
+    "difficultyBasedKills": 163,
+    "shotBombs": 63,
+    "hitBombs": 37,
+    "finalWave": 3,
+    "currentDifficulty": 3
+  }
+]
